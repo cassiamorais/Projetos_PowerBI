@@ -34,7 +34,7 @@ O projeto está dividido em **4 visões** principais:
 
 Os dados foram disponibilizado pelo curso de **Microsoft Power BI Para Business Intelligence e Data Science** da **Data Science Academy** , simulando um cenário real com informações de clientes, compras e campanhas de marketing.
 
-## 📎 Como visualizar
+## 📎 Como visualizar:
 
 **Opção 1:**
 1. Visualize os dashboars no arquivo `.pdf` disponível neste repositório.
