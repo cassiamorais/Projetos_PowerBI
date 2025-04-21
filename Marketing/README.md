@@ -37,7 +37,7 @@ Os dados foram disponibilizado pelo curso de **Microsoft Power BI Para Business 
 ## 📎 Como visualizar
 
 **Opção 1:**
-1. Visualize os dashboars no arquivo .pdf disponível neste repositório.
+1. Visualize os dashboars no arquivo `.pdf` disponível neste repositório.
 
 **Opção 2:**
 1. Baixe o arquivo `.pbix` disponível neste repositório.
