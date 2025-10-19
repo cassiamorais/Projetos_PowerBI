@@ -36,16 +36,7 @@ Os dados foram disponibilizado pelo curso de **Microsoft Power BI Para Business 
 
 ## 📎 Como visualizar:
 
-**Opção 1:**
-1. Visualize os dashboars no arquivo `.pdf` disponível neste repositório.
-
-**Opção 2:**
-1. Baixe o arquivo `.pbix` disponível neste repositório.
-2. Abra no Power BI Desktop (versão gratuita).
-3. Explore os dashboards e interaja com os filtros para obter insights.
-   
-
-> 💡 Observação: os dados estão embutidos no arquivo `.pbix`, não é necessário conexão com nenhuma base externa.
+[Link do Dashboard online](https://app.powerbi.com/view?r=eyJrIjoiZTM5MmYyYmUtMmMzOC00NGQwLTk0N2EtNTQ5NjY0OGZhNjlmIiwidCI6ImUwM2FlZGE5LTg2MDMtNGZjYS04MThhLTc4M2RiZjU0MGQ5ZiJ9)
 
 ##
 Desenvolvido por [Cássia Morais](mailto:cassia2011morais@gmail.com)  
